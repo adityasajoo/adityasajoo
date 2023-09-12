@@ -3,7 +3,7 @@
   <div>
     <a href='https://www.linkedin.com/in/adityasajoo/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href='https://twitter.com/adityasajoo'><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" /></a>
-    <a href='adityasajoo@gmail.com'><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href='mailto:adityasajoo@gmail.com'><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 </div>
 
