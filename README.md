@@ -10,7 +10,7 @@
 ## About Me :memo:
 👨‍💻 Software Developer @AntStack <br/>
 🌐 Currently Building serverless applications. <br/>
-🌱 Environmentalist and animal lover on a mission to code for a greener, kinder future. <br/>
+🌱 Environmentalist and animal lover. <br/>
 🚗 🏍️ Car and bike aficionado, always up for a drive or ride. <br/>
 
 
